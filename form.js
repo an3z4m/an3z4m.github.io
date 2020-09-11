@@ -11,7 +11,7 @@ window.addEventListener("DOMContentLoaded", function() {
     function success() {
       form.reset();
       button.style = "display: none ";
-      status.innerHTML = "Thanks!";
+      status.innerHTML = "Thank you for contacting me, I will reach back to you soon!";
     }
 
     function error() {
@@ -41,5 +41,6 @@ window.addEventListener("DOMContentLoaded", function() {
         error(xhr.status, xhr.response, xhr.responseType);
       }
     };
+      
     xhr.send(data);
   }
