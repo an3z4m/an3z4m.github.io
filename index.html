@@ -135,12 +135,15 @@
             <section>
                 <h2>contact me</h2>
                 <p>
-                    <form>
+                    <form id="my-form" action="https://formspree.io/xeqrywyl" method="POST">
                         <input type="text" placeholder="name" required>
                         <input type="email" placeholder="email" required><br>
                         <textarea placeholder="your message" required rows="5"></textarea><br>
-                        <button class="btn_one">send</button>
-                    </form> 
+                        <button id="my-form-button" class="btn_one">send</button>
+                        <p id="my-form-status"></p>
+
+                    </form>
+                
                 </p>
             </section>
         </div>
@@ -149,6 +152,7 @@
         </div-->
     <script src="index.js" type="text/javascript"></script>
     <!--script src="particles.js"></script-->
+    <script src="form.js"></script>
     <script src="app.js"></script>
 </body>
 </html>
