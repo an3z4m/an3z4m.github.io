@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tm-shopify082-whole-sale.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tm-shopify082-whole-sale.myshopify.com/collections/frontpage/dolor.atom"/>
+  <title>WholeSale</title>
+  <updated>2014-08-15T10:24:00-04:00</updated>
+  <author>
+    <name>WholeSale</name>
+  </author>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339818159</id>
+    <published>2014-08-15T10:24:00-04:00</published>
+    <updated>2014-08-15T10:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/bobbi-brown-soothing-balm"/>
+    <title>Bobbi Brown Soothing Balm</title>
+    <s:type>Jewelry </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/bobbi_brown_soothing_balm_1_copy.png?v=1408112663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Jewelry <br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We propose a wide range of goods which are gathered into products categories to make your search easier and clarify from the first glance what type of products you can find in our store. Being a wholesale shopping place for a rather long period of time we provide the best customer service, fast and efficient processing on orders.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339818159</id>
+      <title>Default</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339818071</id>
+    <published>2014-08-15T10:23:41-04:00</published>
+    <updated>2014-08-15T10:23:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/toledo-cremation-urn"/>
+    <title>Toledo Cremation Urn</title>
+    <s:type>Furniture </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/toledo_cremation_urn_1.png?v=1408112643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Furniture <br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selling multitude goods we care about every particular client enriching him with a positive buyer experience only. Well trained and qualified staff will help you find exactly the products you need. We guarantee that all orders will be processed and shipped as fast as possible. Our Wholesale Store has a well structured products base offering you a wide range of the following goods: Clothing and accessories, goods for children, electronics, furniture, pet supplies, sport and fitness, jewelry, health and beauty, home and decor, office products and some others.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339818071</id>
+      <title>Default</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817963</id>
+    <published>2014-08-15T10:23:23-04:00</published>
+    <updated>2014-08-15T10:23:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/thundercats-thundertank"/>
+    <title>Thundercats Thundertank</title>
+    <s:type>Electronics </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/thundercats_thundertank_1.png?v=1408112621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Electronics <br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make purchases with pleasure! All your wholesale needs are at one place. We constantly renew our collections and are ready to help you in case you need qualified recommendations. We are dedicated in bringing you the best deals in wholesale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817963</id>
+      <title>Default</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817891</id>
+    <published>2014-08-15T10:23:00-04:00</published>
+    <updated>2014-08-15T10:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/smeg"/>
+    <title>Smeg</title>
+    <s:type>Computers</s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/smeg_fab28qbl1_1.png?v=1408112603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Computers<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Wholesale Store has a well structured products base offering you a wide range of the following goods: Clothing and accessories, goods for children, electronics, furniture, pet supplies, sport and fitness, jewelry, health and beauty, home and decor, office products and some others. Discover the ease of your cooperation with us as well as the discount program - the more you buy, the more you save! Would you like to learn more about the benefits our Wholesale Store can offer you? We welcome all wholesale inquiries, and can adjust our prices upon request.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817891</id>
+      <title>Default</title>
+      <s:price currency="USD">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817735</id>
+    <published>2014-08-15T10:22:41-04:00</published>
+    <updated>2014-08-15T10:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/moschino-trench-coat"/>
+    <title>Moschino Trench Coat</title>
+    <s:type>Appliances</s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/moschino_trench_coat_1.png?v=1408112577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Appliances<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are glad you have chosen our Wholesale Store to find the needed products of premium quality and for low pricesOur working experience has won favor and trust among multitude clients with whom we cooperate in various trading areas. We propose a wide range of goods which are gathered into products categories to make your search easier and clarify from the first glance what type of products you can find in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817735</id>
+      <title>Default</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817647</id>
+    <published>2014-08-15T10:22:25-04:00</published>
+    <updated>2014-08-15T10:22:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/metric-tour-2012"/>
+    <title>Metric Tour 2012</title>
+    <s:type>Jewelry </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/metric_tour_2012_1.png?v=1408112561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Jewelry <br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make purchases with pleasure! All your wholesale needs are at one place. We constantly renew our collections and are ready to help you in case you need qualified recommendations. We are dedicated in bringing you the best deals in wholesale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817647</id>
+      <title>Default</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817547</id>
+    <published>2014-08-15T10:22:09-04:00</published>
+    <updated>2014-08-15T10:22:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/m3200-modern-2-1-multimedia-speaker-system"/>
+    <title>M3200™ Modern 2.1 Multimedia Speaker System</title>
+    <s:type>Furniture </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/m3200_tm_modern_2_1_multimedia_speaker_system_1.png?v=1408112545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Furniture <br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Wholesale Store has a well structured products base offering you a wide range of the following goods: Clothing and accessories, goods for children, electronics, furniture, pet supplies, sport and fitness, jewelry, health and beauty, home and decor, office products and some others. Discover the ease of your cooperation with us as well as the discount program - the more you buy, the more you save! Would you like to learn more about the benefits our Wholesale Store can offer you? We welcome all wholesale inquiries, and can adjust our prices upon request.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817547</id>
+      <title>Default</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817827</id>
+    <published>2014-08-15T10:22:00-04:00</published>
+    <updated>2014-08-15T10:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/skram-ant-b-side-table"/>
+    <title>Skram - Ant B Side Table</title>
+    <s:type>Clothing </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/skram_-_ant_b_side_table_1_copy.png?v=1408112591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Clothing <br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Being a wholesale shopping place for a rather long period of time we provide the best customer service, fast and efficient processing on orders. Selling multitude goods we care about every particular client enriching him with a positive buyer experience only. Well trained and qualified staff will help you find exactly the products you need. We guarantee that all orders will be processed and shipped as fast as possible.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817827</id>
+      <title>Default</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817475</id>
+    <published>2014-08-15T10:21:00-04:00</published>
+    <updated>2014-08-15T10:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/logo-band-ring"/>
+    <title>Logo Band Ring</title>
+    <s:type>Electronics </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/logo_band_ring_1.png?v=1408112529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Electronics <br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Being a wholesale shopping place for a rather long period of time we provide the best customer service, fast and efficient processing on orders. Selling multitude goods we care about every particular client enriching him with a positive buyer experience only. Well trained and qualified staff will help you find exactly the products you need. We guarantee that all orders will be processed and shipped as fast as possible.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817475</id>
+      <title>Default</title>
+      <s:price currency="USD">465.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817383</id>
+    <published>2014-08-15T10:21:00-04:00</published>
+    <updated>2014-08-15T10:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/logitech-gaming-keyboard"/>
+    <title>Logitech Gaming Keyboard</title>
+    <s:type>Computers</s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/logitech_gaming_keyboard_g110_1.png?v=1408112511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Computers<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are glad you have chosen our Wholesale Store to find the needed products of premium quality and for low prices. Our working experience has won favor and trust among multitude clients with whom we cooperate in various trading areas. We propose a wide range of goods which are gathered into products categories to make your search easier and clarify from the first glance what type of products you can find in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817383</id>
+      <title>Default</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817315</id>
+    <published>2014-08-15T10:21:00-04:00</published>
+    <updated>2014-08-15T10:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/koko-trees-plastic-floormat"/>
+    <title>Koko - Trees Plastic Floormat</title>
+    <s:type>Clothing </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/koko_-_trees_plastic_floormat_1_copy.png?v=1408112496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Clothing <br>
+        <strong>Price: </strong>
+            490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make purchases with pleasure! All your wholesale needs are at one place. We constantly renew our collections and are ready to help you in case you need qualified recommendations. We are dedicated in bringing you the best deals in wholesale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817315</id>
+      <title>Default</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817215</id>
+    <published>2014-08-15T10:21:00-04:00</published>
+    <updated>2014-08-15T10:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/jelly-belly-fabulous-five-gift-box"/>
+    <title>Jelly Belly Fabulous Five Gift Box</title>
+    <s:type>Appliances</s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/jelly_belly_fabulous_five_gift_box_1_copy.png?v=1408112478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Appliances<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Wholesale Store has a well structured products base offering you a wide range of the following goods: Clothing and accessories, goods for children, electronics, furniture, pet supplies, sport and fitness, jewelry, health and beauty, home and decor, office products and some others. Discover the ease of your cooperation with us as well as the discount program - the more you buy, the more you save! Would you like to learn more about the benefits our Wholesale Store can offer you? We welcome all wholesale inquiries, and can adjust our prices upon request.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817215</id>
+      <title>Default</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817115</id>
+    <published>2014-08-15T10:20:00-04:00</published>
+    <updated>2014-08-15T10:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/imperial-eco-nordic"/>
+    <title>Imperial Eco Nordic</title>
+    <s:type>Jewelry </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/imperial_eco_nordic_1.png?v=1408112460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Jewelry <br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Being a wholesale shopping place for a rather long period of time we provide the best customer service, fast and efficient processing on orders. Selling multitude goods we care about every particular client enriching him with a positive buyer experience only. Well trained and qualified staff will help you find exactly the products you need. We guarantee that all orders will be processed and shipped as fast as possible.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817115</id>
+      <title>Default</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817039</id>
+    <published>2014-08-15T10:20:00-04:00</published>
+    <updated>2014-08-15T10:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/hrb-701ff-ss-french-door"/>
+    <title>HRB-701FF-SS French Door</title>
+    <s:type>Furniture </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/hrf-665dta2_side-by-side_1.png?v=1408112445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Furniture <br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are glad you have chosen our Wholesale Store to find the needed products of premium quality and for low prices.Our working experience has won favor and trust among multitude clients with whom we cooperate in various trading areas. We propose a wide range of goods which are gathered into products categories to make your search easier and clarify from the first glance what type of products you can find in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339817039</id>
+      <title>Default</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816947</id>
+    <published>2014-08-15T10:20:00-04:00</published>
+    <updated>2014-08-15T10:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/heavy-leather-collar-with-handle"/>
+    <title>Heavy Leather Collar With Handle</title>
+    <s:type>Electronics </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/heavy_leather_collar_with_handle_1.png?v=1408112430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Electronics <br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make purchases with pleasure! All your wholesale needs are at one place. We constantly renew our collections and are ready to help you in case you need qualified recommendations. We are dedicated in bringing you the best deals in wholesale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816947</id>
+      <title>Default</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816859</id>
+    <published>2014-08-15T10:20:00-04:00</published>
+    <updated>2014-08-15T10:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/garden-trading-co-belfast-wall-lamp-clay"/>
+    <title>Garden Trading Co Belfast Wall Lamp Clay</title>
+    <s:type>Computers</s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/garden_trading_co_belfast_wall_lamp_clay_1_copy.png?v=1408112415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Computers<br>
+        <strong>Price: </strong>
+            560.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Wholesale Store has a well structured products base offering you a wide range of the following goods: Clothing and accessories, goods for children, electronics, furniture, pet supplies, sport and fitness, jewelry, health and beauty, home and decor, office products and some others. Discover the ease of your cooperation with us as well as the discount program - the more you buy, the more you save! Would you like to learn more about the benefits our Wholesale Store can offer you? We welcome all wholesale inquiries, and can adjust our prices upon request.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816859</id>
+      <title>Default</title>
+      <s:price currency="USD">560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816791</id>
+    <published>2014-08-15T10:19:00-04:00</published>
+    <updated>2014-08-15T10:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/dalbello-viper-surge-i-d-mens-ski-boot"/>
+    <title>Dalbello Viper Surge I.D.  Mens Ski Boot</title>
+    <s:type>Clothing </s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/dalbello_viper_surge_i_d__mens_ski_boot_1.png?v=1408112403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Clothing <br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Being a wholesale shopping place for a rather long period of time we provide the best customer service, fast and efficient processing on orders. Selling multitude goods we care about every particular client enriching him with a positive buyer experience only. Well trained and qualified staff will help you find exactly the products you need. We guarantee that all orders will be processed and shipped as fast as possible.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816791</id>
+      <title>Default</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816691</id>
+    <published>2014-08-15T10:19:00-04:00</published>
+    <updated>2014-08-15T10:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify082-whole-sale.myshopify.com/products/colour-graduated-pen"/>
+    <title>Colour Graduated Pen</title>
+    <s:type>Appliances</s:type>
+    <s:vendor>Whole sale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0617/6833/products/colour-graduated_pen_1.png?v=1408112386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whole sale<br>
+        <strong>Type: </strong>Appliances<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are glad you have chosen our Wholesale Store to find the needed products of premium quality and for low prices. Our working experience has won favor and trust among multitude clients with whom we cooperate in various trading areas. We propose a wide range of goods which are gathered into products categories to make your search easier and clarify from the first glance what type of products you can find in our store. "</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify082-whole-sale.myshopify.com/products/339816691</id>
+      <title>Default</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
