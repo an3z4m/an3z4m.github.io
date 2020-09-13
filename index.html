@@ -10,7 +10,31 @@
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css">
-
+    <style>
+        div.gallery {
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 180px;
+          border-width: 0px;
+        }
+        
+        div.gallery:hover {
+          border: 1px solid #777;
+        }
+        
+        div.gallery img {
+          width: 100%;
+          height: auto;
+        }
+        
+        div.desc {
+          font-size: medium;
+          margin: 0px;
+          padding: 15px;
+          text-align: center;
+        }
+        </style>
 
 
     <script type="text/javascript" >
@@ -88,31 +112,66 @@
         <h1>showcases.</h1>
         <section>
             <h2>Shopify stores</h2>
-            <a href="portfolio/t129-electronics">
-                Electronics E-store    
-            </a>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-            <h2>Wordpress Websites</h2>
-            <a href="https://erwan.cloudaccess.host">
-                <h3>See Food Store</h3>    
-            </a>
+
+            <div class="gallery">
+                <a target="_blank" href="portfolio/t129-electronics">
+                  <img src="portfolio/t129-electronics.jpg" alt="Cinque Terre" width="600" height="400">
+                </a>
+                <div class="desc"> Electronics E-store  </div>
+              </div>
+
+              <div class="gallery">
+                <a target="_blank" href="portfolio/t129-electronics">
+                  <img src="portfolio/t129-electronics.jpg" alt="Cinque Terre" width="600" height="400">
+                </a>
+                <div class="desc"> Electronics E-store  </div>
+              </div>
+
+              <div class="gallery">
+                <a target="_blank" href="portfolio/t129-electronics">
+                  <img src="portfolio/t129-electronics.png" alt="Cinque Terre" width="600" height="400">
+                </a>
+                <div class="desc"> Electronics E-store  </div>
+              </div>
+
             
 
-            <div id="used">
+            <!--div id="used">
                 <div><i class="fas fa-circle"></i>&nbsp;HTML5</div>
                 <div><i class="fas fa-circle"></i>&nbsp;CSS3</div>
-                <div><i class="fas fa-circle"></i>
-                    <a style="text-decoration:none;" href="https://magnetiseuressonne.fr">
-                        Health Care
-                    </a>
-                </div>
-            </div>
-            <button class="btn_one"><a href="https://jacqueline.cloudaccess.host">
-                Music Artist   
-            </a></button>
-            <button class="btn_two">button 2</button>
+            </div-->
+            <!--button class="btn_one"></button>
+            <button class="btn_two">button 2</button-->
+                <!--h2>Wordpress Websites</h2>
+
+            <div class="gallery">
+                <a target="_blank" href="https://magnetiseuressonne.fr">
+                  <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+                </a>
+                <div class="desc">Health Care</div>
+              </div>
+
+              <div class="gallery">
+                <a target="_blank" href="https://erwan.cloudaccess.host">
+                  <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+                </a>
+                <div class="desc">See Food Store</div>
+              </div>
+              
+              <div class="gallery">
+                <a target="_blank" href="https://jacqueline.cloudaccess.host">
+                  <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+                </a>
+                <div class="desc"> Music Artist </div>
+              </div>
+              
+              <div class="gallery">
+                <a target="_blank" href="img_mountains.jpg">
+                  <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+                </a>
+                <div class="desc">Add a description of the image here</div>
+              </div-->
+              
         </section>
     </div>
     <div id="about_container" class="container">

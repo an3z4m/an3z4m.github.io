@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://icam-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://icam-demo.myshopify.com/collections/latest-product.atom"/>
+  <title>Icam</title>
+  <updated>2018-11-27T18:36:36-12:00</updated>
+  <author>
+    <name>Icam</name>
+  </author>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1554028265572</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/night-vision-hd"/>
+    <title>Night Vision HD</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p25_884c8d96-f418-47e0-b886-7140ab07f302.jpg?v=1543492312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>CP Plus</s:tag>
+    <s:tag>HD</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1554028265572</id>
+      <title>Dome / HD</title>
+      <s:price currency="USD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553636425828</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/pen-hd-camera"/>
+    <title>Pen HD Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p17_5ad31ea0-db87-48ec-8c47-fb32d5c18aa7.jpg?v=1543491392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            679.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553636425828</id>
+      <title>PTZ / Digital</title>
+      <s:price currency="USD">679.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1549206487140</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/night-vision"/>
+    <title>Night Vision</title>
+    <s:type>Camera</s:type>
+    <s:vendor>EyeVisionPro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p10.jpg?v=1543392062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EyeVisionPro<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            879.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>HD</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1549206487140</id>
+      <title>PTZ / HD</title>
+      <s:price currency="USD">879.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548705923172</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/outdoor-camera"/>
+    <title>Outdoor Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Ibs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p7.jpg?v=1543390475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ibs<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Ibs</s:tag>
+    <s:tag>IP</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548705923172</id>
+      <title>Bullet / IP</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1547972739172</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/keypad-lock"/>
+    <title>Keypad Lock</title>
+    <s:type>Lock</s:type>
+    <s:vendor>Battlestar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p1_91cfc920-5d61-4c8e-afa5-790767987e86.jpg?v=1543387991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Battlestar<br>
+        <strong>Type: </strong>Lock<br>
+        <strong>Price: </strong>
+            319.00 - 429.00
+            <a href="https://icam-demo.myshopify.com/products/keypad-lock">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Battlestar</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>Dome</s:tag>
+    <s:tag>Lock</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1547972739172</id>
+      <title>Dome / Digital</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1547972739172</id>
+      <title>Box / IP</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

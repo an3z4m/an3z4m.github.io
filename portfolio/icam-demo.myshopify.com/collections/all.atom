@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://icam-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://icam-demo.myshopify.com/collections/all.atom"/>
+  <title>Icam</title>
+  <updated>2019-04-07T19:24:55-12:00</updated>
+  <author>
+    <name>Icam</name>
+  </author>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/3271010582628</id>
+    <published>2019-04-07T19:24:55-12:00</published>
+    <updated>2019-04-07T19:24:55-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/hiseeu-1080p-ip-camera-wireless-home-security-ip-camera-surveillance-camera-wifi-night-vision-cctv-camera-baby-monitor-1920-1080"/>
+    <title>Hiseeu Wireless Home Security IP Camera</title>
+    <s:type></s:type>
+    <s:vendor>Icam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/Hiseeu-1080P-IP-Camera-Wireless-Home-Security-IP-Camera-Surveillance-Camera-Wifi-Night-Vision-CCTV-Camera.jpg?v=1554708296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Icam<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.84 - 68.60
+            <a href="https://icam-demo.myshopify.com/products/hiseeu-1080p-ip-camera-wireless-home-security-ip-camera-surveillance-camera-wifi-night-vision-cctv-camera-baby-monitor-1920-1080">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><span><strong>Brand Name:</strong>Hiseeu</span></p>
+<p> </p>
+<p><span><strong>Type:</strong>IP Camera</span></p>
+<p> </p>
+<p><span><strong>Style:</strong>Dome Camera</span></p>
+<p> </p>
+<p><span><strong>High Definition:</strong>1080P(Full-HD)</span></p>
+<p> </p>
+<p><span><strong>Connectivity:</strong>IP/Network Wired</span></p>
+<p> </p>
+<p><span><strong>Lens (mm):</strong>3.6mm</span></p>
+<p> </p>
+<p><span><strong>Supported Operating Systems:</strong>Windows 7,Windows 98,Windows 8,Windows XP</span></p>
+<p> </p>
+<p><span><strong>Model Number:</strong>FH-1C</span></p>
+<p> </p>
+<p><span><strong>Sensor:</strong>CMOS</span></p>
+<p> </p>
+<p><span><strong>Technology:</strong>Infrared</span></p>
+<p> </p>
+<p><span><strong>Sensor Brand:</strong>Sony</span></p>
+<p> </p>
+<p><span><strong>Supported Mobile Systems:</strong>Android,ios</span></p>
+<p> </p>
+<p><span><strong>Power Consumption(W):</strong>5W</span></p>
+<p> </p>
+<p><span><strong>Alarm Action:</strong>Local Alarm,Email Photo</span></p>
+<p> </p>
+<p><span><strong>Power Supply(V):</strong>5v2A</span></p>
+<p> </p>
+<p><span><strong>Network Interface:</strong>Wi-Fi/802.11/b/g</span></p>
+<p> </p>
+<p><span><strong>Dimensions (L x W x D)(mm):</strong>140mm x 120mm x 140MM (L*W*H)</span></p>
+<p> </p>
+<p><span><strong>IR Distance(m):</strong>10M</span></p>
+<p> </p>
+<p><span><strong>Video Compression Format:</strong>H.264</span></p>
+<p> </p>
+<p><span><strong>Viewing Angle (Degree):</strong>75°</span></p>
+<p> </p>
+<p><span><strong>Minimum Illumination(Lux):</strong>0.4LUX/F2.0</span></p>
+<p> </p>
+<p><span><strong>Audio Output:</strong>Built in MIC</span></p>
+<p> </p>
+<p><span><strong>is_customized:</strong>Yes</span></p>
+<p> </p>
+<p><span><strong>Wall Bracket:</strong>Ceiling</span></p>
+<p> </p>
+<p><span><strong>Color:</strong>WHITE</span></p>
+<p> </p>
+<p><span><strong>Installation:</strong>Ceiling</span></p>
+<p> </p>
+<p><span><strong>Storage:</strong>64GB</span></p>
+<p> </p>
+<p><span><strong>Power Supply:</strong>Normal</span></p>
+<p> </p>
+<p><span><strong>TF Card:</strong>None</span></p>
+<p> </p>
+<p><span><strong>Pixel:</strong>2MP</span></p>
+<p> </p>
+<p><span><strong>IR-leds:</strong>Yes</span></p>
+<p> </p>
+<p><span><strong>Technology:</strong>Horizontal:355° vertical: 110°</span></p>
+<p> </p>
+<p><span><strong>Storage card slot:</strong>Micro sd card 8/16/32/64Gb</span></p>
+<p> </p>
+<p><span><strong>Year:</strong>2019 Latest IP Wireless Network Camera</span></p>
+<p> </p>
+<p><span><strong>Display:</strong>HD/SD/LD</span></p>
+<p> </p>
+<p><span><strong>Package size:</strong>150mm x 150mm x 150 (L*W*H)</span></p>
+<p> </p>
+<p><span><strong>Pan&amp;Tilt:</strong>Yes</span></p>
+<p> </p>
+<p><span><strong>Camera Resolution:</strong>720P/1080P Option</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3271010582628</id>
+      <title>1080P / China</title>
+      <s:price currency="USD">54.60</s:price>
+      <s:sku>1554708281282-1080p-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3271010582628</id>
+      <title>720P / China</title>
+      <s:price currency="USD">39.84</s:price>
+      <s:sku>1554708281283-720p-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3271010582628</id>
+      <title>720P with 32G Card / China</title>
+      <s:price currency="USD">56.70</s:price>
+      <s:sku>1554708281283-720p-with-32g-card-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3271010582628</id>
+      <title>1080P with 32GB Card / China</title>
+      <s:price currency="USD">68.60</s:price>
+      <s:sku>1554708281284-1080p-with-32gb-card-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3271010582628</id>
+      <title>1080P with 32GB Card / Russian Federation</title>
+      <s:price currency="USD">68.60</s:price>
+      <s:sku>1554708281284-1080p-with-32gb-card-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/3270942949476</id>
+    <published>2019-04-07T19:11:31-12:00</published>
+    <updated>2019-04-07T19:11:31-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/bluetooth-shower-speaker-assorted-colors"/>
+    <title>Bluetooth Shower Speaker - Assorted Colors</title>
+    <s:type></s:type>
+    <s:vendor>Icam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/product-image-675105658.jpg?v=1554707495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Icam<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style='margin-bottom: 1em; line-height: 1.4; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'>Having to go in and out of your shower to switch songs or answer important phone calls can damage your beloved mobile phone. Now with this amazing deal on the Bluetooth Shower Speaker, you can do those things all in the comfort of your shower! Available in blue, yellow, pink and green, this speaker is 100% waterproof and comes with a suction cup to stick to the any wall in your shower.  </p><p style='margin-bottom: 1em; line-height: 1.4; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><br></p><p style='margin-bottom: 1em; line-height: 1.4; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>HIGHLIGHTS:</strong></p><ul style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'>
+<li>Bluetooth Technology</li>
+<li>Waterproof</li>
+<li>Suction cup attaches to shower wall</li>
+<li>Assorted Colors</li>
+</ul><p><font color="#000000" face="Helvetica Neue, Helvetica, Arial, sans-serif"><span style="font-size: 15px;"><br></span></font></p><p style='margin-bottom: 1em; line-height: 1.4; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>INSTRUCTIONS:</strong></p><ul style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'>
+<li>Press and hold the On/Off button of the speaker for about 6 seconds until the red LED and blue LED are flashing alternatively, now the speaker is ready for pairing</li>
+<li>Turn on your mobile phone and activate the bluetooth function</li>
+<li>Search for bluetooth devices, "BTS-06" will show up</li>
+<li>Pair your device with "BTS-06", if password is needed, type in "0000", then you can enjoy the fun this unique mini speaker brings to you</li>
+<li>Note: Do not drop the speaker into the water</li>
+<li>You can press the phone call button twice quickly to redial the last phone call </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3270942949476</id>
+      <title>Blue</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>bluetooth-shower-speaker-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3270942949476</id>
+      <title>Yellow</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>bluetooth-shower-speaker-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3270942949476</id>
+      <title>Pink</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>bluetooth-shower-speaker-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3270942949476</id>
+      <title>Green</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>bluetooth-shower-speaker-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/3270942949476</id>
+      <title>Black</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>bluetooth-shower-speaker-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1554028265572</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/night-vision-hd"/>
+    <title>Night Vision HD</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p25_884c8d96-f418-47e0-b886-7140ab07f302.jpg?v=1543492312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>CP Plus</s:tag>
+    <s:tag>HD</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1554028265572</id>
+      <title>Dome / HD</title>
+      <s:price currency="USD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1554000838756</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/wireless-bullet-hd"/>
+    <title>Wireless Bullet HD</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p24_d15f04c0-2b14-4f18-8e15-d5c0dea23359.jpg?v=1543492224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>HD</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1554000838756</id>
+      <title>Bullet / HD</title>
+      <s:price currency="USD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553974820964</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/waterproof-bullet-hd"/>
+    <title>Waterproof Bullet HD</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p23_808cb461-fbd0-4255-b6f2-130b64555a81.jpg?v=1543492090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553974820964</id>
+      <title>Bullet / HD</title>
+      <s:price currency="USD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553935695972</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/street-security"/>
+    <title>Street Security</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p22_77a84cdd-d949-41ff-b1d5-913a73f81164.jpg?v=1543491990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553935695972</id>
+      <title>Bullet / Digital</title>
+      <s:price currency="USD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553827659876</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/wireless-hd-camera"/>
+    <title>Wireless HD Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Ibs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p21_dc3139bb-bc56-4313-91c9-2f55f9c3a2ac.jpg?v=1543491728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ibs<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Dome</s:tag>
+    <s:tag>HD</s:tag>
+    <s:tag>Ibs</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553827659876</id>
+      <title>Dome / HD</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553801216100</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/bullet-hd-lens"/>
+    <title>Bullet HD Lens</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Ibs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p20_6fd8c665-04eb-4041-9f39-a6dbb1abc69f.jpg?v=1543491669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ibs<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>HD</s:tag>
+    <s:tag>Ibs</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553801216100</id>
+      <title>Bullet / HD</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553776967780</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/copy-of-surveillance-3d"/>
+    <title>360 degree Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p19_12445752-abaa-4179-b7b6-c550ee4423bb.jpg?v=1543491627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Dome</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>HD</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553776967780</id>
+      <title>Dome / HD</title>
+      <s:price currency="USD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553735417956</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/surveillance-3d"/>
+    <title>Surveillance 3D</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p18_975e9c57-5014-4ddc-9889-7bf3f4a22cc8.jpg?v=1543491463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Dome</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553735417956</id>
+      <title>Dome / Wi-Fi</title>
+      <s:price currency="USD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1553636425828</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/pen-hd-camera"/>
+    <title>Pen HD Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p17_5ad31ea0-db87-48ec-8c47-fb32d5c18aa7.jpg?v=1543491392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            679.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1553636425828</id>
+      <title>PTZ / Digital</title>
+      <s:price currency="USD">679.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1549402669156</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/flashing-cctv"/>
+    <title>Flashing CCTV</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p16.jpg?v=1543392882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>CP Plus</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>HD</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1549402669156</id>
+      <title>Bullet / HD</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1549349584996</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/varifocal-lens"/>
+    <title>Varifocal Lens</title>
+    <s:type>Camera</s:type>
+    <s:vendor>EyeVisionPro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p14.jpg?v=1543392551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EyeVisionPro<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:tag>Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1549349584996</id>
+      <title>PTZ / Wi-Fi</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1549281099876</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/smart-hd-camera"/>
+    <title>Smart HD Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>EyeVisionPro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p13.jpg?v=1543392309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EyeVisionPro<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>Dome</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1549281099876</id>
+      <title>Dome / Digital</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1549242990692</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/surveillance-camera"/>
+    <title>Surveillance Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>EyeVisionPro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p12.jpg?v=1543392167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EyeVisionPro<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>Dome</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1549242990692</id>
+      <title>Dome / Digital</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1549206487140</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/night-vision"/>
+    <title>Night Vision</title>
+    <s:type>Camera</s:type>
+    <s:vendor>EyeVisionPro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p10.jpg?v=1543392062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EyeVisionPro<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            879.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>HD</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1549206487140</id>
+      <title>PTZ / HD</title>
+      <s:price currency="USD">879.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1549083607140</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/traffic-security-camera"/>
+    <title>Traffic Security Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>EyeVisionPro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p9.jpg?v=1543391750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EyeVisionPro<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>D3D</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1549083607140</id>
+      <title>PTZ / D3D</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548771065956</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/card-slot-camera"/>
+    <title>Card Slot Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>EyeVisionPro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p8.jpg?v=1543390692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EyeVisionPro<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            439.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Box</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>EyeVisionPro</s:tag>
+    <s:tag>IP</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548771065956</id>
+      <title>Box / IP</title>
+      <s:price currency="USD">439.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548705923172</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/outdoor-camera"/>
+    <title>Outdoor Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Ibs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p7.jpg?v=1543390475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ibs<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Ibs</s:tag>
+    <s:tag>IP</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548705923172</id>
+      <title>Bullet / IP</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548646809700</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/digital-night-vision"/>
+    <title>Digital Night Vision</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Ibs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p6.jpg?v=1543390256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ibs<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            196.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>Ibs</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548646809700</id>
+      <title>PTZ / Digital</title>
+      <s:price currency="USD">196.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548529008740</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/waterproof-hd-camera"/>
+    <title>Waterproof HD Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Ibs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p5.jpg?v=1543389829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ibs<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Dome</s:tag>
+    <s:tag>HD</s:tag>
+    <s:tag>Ibs</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548529008740</id>
+      <title>Dome / HD</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548430868580</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/hd-bullet-camera"/>
+    <title>HD Bullet Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Hikvision</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p4.jpg?v=1543389474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hikvision<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Bullet</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>HD</s:tag>
+    <s:tag>Hikvision</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548430868580</id>
+      <title>Bullet / HD</title>
+      <s:price currency="USD">529.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548328861796</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/dvr-camera"/>
+    <title>DVR Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Hikvision</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p3_80416b77-cf1b-4569-b0c9-99ced3e75e3d.jpg?v=1543389182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hikvision<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            129.00 - 189.00
+            <a href="https://icam-demo.myshopify.com/products/dvr-camera">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Box</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Hikvision</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548328861796</id>
+      <title>Box / Wireless</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548328861796</id>
+      <title>Box / Digital</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548220530788</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/bullet-dvr-camera"/>
+    <title>Bullet DVR Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p2.jpg?v=1543388709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            214.00 - 299.00
+            <a href="https://icam-demo.myshopify.com/products/bullet-dvr-camera">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Box</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>CP Plus</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548220530788</id>
+      <title>Box / Wireless</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548220530788</id>
+      <title>Box / Digital</title>
+      <s:price currency="USD">222.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548220530788</id>
+      <title>Dome / Digital</title>
+      <s:price currency="USD">214.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548220530788</id>
+      <title>360 Degree / Wireless</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548220530788</id>
+      <title>Bullet / Digital</title>
+      <s:price currency="USD">278.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548220530788</id>
+      <title>Bullet / CCTV</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://icam-demo.myshopify.com/products/1548145459300</id>
+    <published>2018-11-27T18:36:36-12:00</published>
+    <updated>2018-11-27T18:36:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://icam-demo.myshopify.com/products/face-password-lock"/>
+    <title>Face Password Lock</title>
+    <s:type>Lock</s:type>
+    <s:vendor>CP Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0040/0323/3892/products/p11_e1c01faa-9a58-4926-8796-04997d5c1e92.jpg?v=1543388431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP Plus<br>
+        <strong>Type: </strong>Lock<br>
+        <strong>Price: </strong>
+            219.00 - 289.00
+            <a href="https://icam-demo.myshopify.com/products/face-password-lock">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>CP Plus</s:tag>
+    <s:tag>Lock</s:tag>
+    <s:tag>PTZ</s:tag>
+    <s:tag>Wi-Fi</s:tag>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548145459300</id>
+      <title>PTZ / Wi-Fi</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://icam-demo.myshopify.com/products/1548145459300</id>
+      <title>Box / Wi-Fi</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
