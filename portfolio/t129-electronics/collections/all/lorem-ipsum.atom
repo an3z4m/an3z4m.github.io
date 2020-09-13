@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme129-electronics.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theme129-electronics.myshopify.com/collections/all/dolor.atom"/>
+  <title>SMART STORE</title>
+  <updated>2015-01-12T10:31:29-05:00</updated>
+  <author>
+    <name>SMART STORE</name>
+  </author>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236664</id>
+    <published>2015-01-12T10:31:29-05:00</published>
+    <updated>2015-01-12T10:31:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/harman-kardon-bds-370-2-1-channel-integrated-home-theater-system"/>
+    <title>Harman Kardon BDS 370 2.1-Channel Integrated Home Theater System</title>
+    <s:type>Other</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/harman_kardon_bds_370_21-channel_integrated_home_theater_system_1.png?v=1421076693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Also you can save some money at our store because we always provide different promos and you can get good discount and other benefits. Remember that only in our store you can buy fashionable, solid and very functional home electronics. Comfort is a very important thing nowadays because it is a condition of satisfaction and calmness. Recipe of our success is a fair price and premium quality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236664</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236636</id>
+    <published>2015-01-12T10:31:22-05:00</published>
+    <updated>2015-01-12T10:31:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/frigidaire-professional-programmable-water-kettle"/>
+    <title>Frigidaire Professional Programmable Water Kettle</title>
+    <s:type>Other</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/frigidaire_professional_programmable_water_kettle_1.png?v=1421076687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            410.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you want to know more information about our goods, terms, guarantees and other features, you can address our superb 24/7 support system. Also you can save some money at our store because we always provide different promos and you can get good discount and other benefits. Remember that only in our store you can buy fashionable, solid and very functional home electronics.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236612</id>
+    <published>2015-01-12T10:31:16-05:00</published>
+    <updated>2015-01-12T10:31:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/frigidaire-ffpt12f3nb-12-0-cu-ft-black-top-freezer-refrigerator"/>
+    <title>Frigidaire FFPT12F3NB 12.0 Cu. Ft. Black Top Freezer Refrigerator</title>
+    <s:type>Other</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/frigidaire_ffpt12f3nb_120_cu_ft_black_top_freezer_refrigerator_1.png?v=1421076681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are trying to introduce positive results of our explorations. If you want to know more information about our goods, terms, guarantees and other features, you can address our superb 24/7 support system. Also you can save some money at our store because we always provide different promos and you can get good discount and other benefits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236576</id>
+    <published>2015-01-12T10:31:10-05:00</published>
+    <updated>2015-01-12T10:31:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/frigidaire-ffht2126lm-top-freezer20-6-cubic-ft-refrigerator-silver-mist"/>
+    <title>Frigidaire FFHT2126LM, Top Freezer20.6 Cubic Ft Refrigerator, Silver Mist</title>
+    <s:type>Other</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/frigidaire_ffht2126lm_top_freezer206_cubic_ft_refrigerator_silver_mist_1.png?v=1421076675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The main goal of their analysis is to find out the changes of clients' demands and other useful data. We are trying to introduce positive results of our explorations. If you want to know more information about our goods, terms, guarantees and other features, you can address our superb 24/7 support system.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236576</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236540</id>
+    <published>2015-01-12T10:31:03-05:00</published>
+    <updated>2015-01-12T10:31:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/dyson-dc39-animal-canister-vacuum-cleaner-with-tangle-free-turbine-tool"/>
+    <title>Dyson DC39 Animal Canister Vacuum Cleaner with Tangle-free Turbine tool</title>
+    <s:type>Other</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/dyson_dc39_animal_canister_vacuum_cleaner_with_tangle-free_turbine_tool_1.png?v=1421076668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Also we provide different economical, social and even technological researches. The main goal of their analysis is to find out the changes of clients' demands and other useful data. We are trying to introduce positive results of our explorations. If you want to know more information about our goods, terms, guarantees and other features, you can address our superb 24/7 support system.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236500</id>
+    <published>2015-01-12T10:30:56-05:00</published>
+    <updated>2015-01-12T10:30:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/delonghi-kmix-54-ounce-kettle"/>
+    <title>DeLonghi Kmix 54-Ounce Kettle</title>
+    <s:type>Washing/Cleaning</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/delonghi_kmix_54-ounce_kettle_1.png?v=1421076662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Washing/Cleaning<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our manufacturers and vendors provide only new technologies and it is very important because nowadays we see a furious development of electronics industry. Also we provide different economical, social and even technological researches. The main goal of their analysis is to find out the changes of clients' demands and other useful data. Recipe of our success is a fair price and premium quality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236500</id>
+      <title>Default Title</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236472</id>
+    <published>2015-01-12T10:30:49-05:00</published>
+    <updated>2015-01-12T10:30:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/cuisinart-cpk-17-perfectemp-1-7-liter-stainless-steel-cordless-electric-kettle"/>
+    <title>Cuisinart CPK-17 PerfecTemp 1.7-Liter Stainless Steel Cordless Electric Kettle</title>
+    <s:type>Washing/Cleaning</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/cuisinart_cpk-17_perfectemp_17-liter_stainless_steel_cordless_electric_kettle_1.png?v=1421076655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Washing/Cleaning<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll be amazed with its simplicity and durability. Our manufacturers and vendors provide only new technologies and it is very important because nowadays we see a furious development of electronics industry. Also we provide different economical, social and even technological researches. The main goal of their analysis is to find out the changes of clients' demands and other useful data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236472</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236444</id>
+    <published>2015-01-12T10:30:43-05:00</published>
+    <updated>2015-01-12T10:30:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/cuisinart-cmw-200-1-1-5-cubic-foot-convection-microwave-oven-with-grill"/>
+    <title>Cuisinart CMW-200 1-1-5-Cubic-Foot Convection Microwave Oven with Grill</title>
+    <s:type>Washing/Cleaning</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/cuisinart_cmw-200_1-1-5-cubic-foot_convection_microwave_oven_with_grill_1.png?v=1421076648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Washing/Cleaning<br>
+        <strong>Price: </strong>
+            410.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>But we provide only real bestsellers and our products have a great number of options that can really help you. You'll be amazed with its simplicity and durability. Our manufacturers and vendors provide only new technologies and it is very important because nowadays we see a furious development of electronics industry. We are trying to introduce positive results of our explorations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236400</id>
+    <published>2015-01-12T10:30:36-05:00</published>
+    <updated>2015-01-12T10:30:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/conair-dpp143-ez-press-800-watt-steam-iron"/>
+    <title>Conair DPP143 EZ Press 800-Watt Steam Iron</title>
+    <s:type>Washing/Cleaning</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/conair_dpp143_ez_press_800-watt_steam_iron_1.png?v=1421076641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Washing/Cleaning<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nowadays clients' claims become so scrupulous that sometimes it is very hard to satisfy them. But we provide only real bestsellers and our products have a great number of options that can really help you. You'll be amazed with its simplicity and durability. The main goal of their analysis is to find out the changes of clients' demands and other useful data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236400</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236368</id>
+    <published>2015-01-12T10:30:30-05:00</published>
+    <updated>2015-01-12T10:30:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/canon-vixia-hf10-flash-memory-high-definition-camcorder-with-16-gb-internal-flash-memory-and-12x-optical-image-stabilized-zoom"/>
+    <title>Canon VIXIA HF10 Flash Memory High Definition Camcorder with 16 GB Internal Flash Memory and 12x Optical Image Stabilized Zoom</title>
+    <s:type>Washing/Cleaning</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/canon_vixia_hf10_flash_memory_high_definition_camcorder_with_16_gb_internal_flash_memory_and_12x_optical_image_stabilized_zoom_1.png?v=1421076635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Washing/Cleaning<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have a tremendous variety of different models. Nowadays clients' claims become so scrupulous that sometimes it is very hard to satisfy them. But we provide only real bestsellers and our products have a great number of options that can really help you. You'll be amazed with its simplicity and durability. We are trying to introduce positive results of our explorations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236344</id>
+    <published>2015-01-12T10:30:23-05:00</published>
+    <updated>2015-01-12T10:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/canon-vixia-hf-r400-hd-53x-advanced-zoom-camcorder"/>
+    <title>Canon VIXIA HF R400 HD 53x Advanced Zoom Camcorder</title>
+    <s:type>Entertainment</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/canon_vixia_hf_r400_hd_53x_advanced_zoom_camcorder_1.png?v=1421076629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Entertainment<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our goods are the combination of perfect design and an ideal functionality. We have a tremendous variety of different models. Nowadays clients' claims become so scrupulous that sometimes it is very hard to satisfy them. But we provide only real bestsellers and our products have a great number of options that can really help you. You'll be amazed with its simplicity and durability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236344</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236312</id>
+    <published>2015-01-12T10:30:16-05:00</published>
+    <updated>2015-01-12T10:30:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/breville-bov800xl-smart-oven-1800-watt-convection-toaster-oven-with-element-iq"/>
+    <title>Breville BOV800XL Smart Oven 1800-Watt Convection Toaster Oven with Element IQ</title>
+    <s:type>Entertainment</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/breville_bov800xl_smart_oven_1800-watt_convection_toaster_oven_with_element_iq_1.png?v=1421076622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Entertainment<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Here you can find something more than just home electronics, you can find real comfort and satisfaction here! Our goods are the combination of perfect design and an ideal functionality. We have a tremendous variety of different models. Nowadays clients' claims become so scrupulous that sometimes it is very hard to satisfy them. It is clear that our way of life must be as comfortable as possible.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236256</id>
+    <published>2015-01-12T10:30:09-05:00</published>
+    <updated>2015-01-12T10:30:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/black-decker-ir03v-easy-steam-iron"/>
+    <title>Black &amp; Decker IR03V Easy Steam Iron</title>
+    <s:type>Entertainment</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/black_and_decker_ir03v_easy_steam_iron_1.png?v=1421076615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Entertainment<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We understand that it is very complicated to amaze present clients, they are so whimsical, but our products are very flexible and reliable. Here you can find something more than just home electronics, you can find real comfort and satisfaction here! Our goods are the combination of perfect design and an ideal functionality. We have a tremendous variety of different models.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236256</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236224</id>
+    <published>2015-01-12T10:30:03-05:00</published>
+    <updated>2015-01-12T10:30:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/black-decker-f1060-steam-advantage-iron-with-stainless-steel-soleplate"/>
+    <title>Black &amp; Decker F1060 Steam Advantage Iron with Stainless-Steel Soleplate</title>
+    <s:type>Entertainment</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/black_and_decker_f1060_steam_advantage_iron_with_stainless-steel_soleplate_1.png?v=1421076608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Entertainment<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Recipe of our success is a fair price and premium quality. We understand that it is very complicated to amaze present clients, they are so whimsical, but our products are very flexible and reliable. Here you can find something more than just home electronics, you can find real comfort and satisfaction here! Our goods are the combination of perfect design and an ideal functionality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236192</id>
+    <published>2015-01-12T10:29:56-05:00</published>
+    <updated>2015-01-12T10:29:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/black-decker-d6000-all-temp-steam-iron-with-stainless-steel-soleplate"/>
+    <title>Black &amp; Decker D6000 All-Temp Steam Iron with Stainless-Steel Soleplate</title>
+    <s:type>Entertainment</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/black_and_decker_d6000_all-temp_steam_iron_with_stainless-steel_soleplate_1.png?v=1421076602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Entertainment<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You know, we have many devoted customers all over the world, and this fact proves that we sell only quality commodities. Recipe of our success is a fair price and premium quality. We understand that it is very complicated to amaze present clients, they are so whimsical, but our products are very flexible and reliable. You'll be amazed with its simplicity and durability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236192</id>
+      <title>Default Title</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236172</id>
+    <published>2015-01-12T10:29:50-05:00</published>
+    <updated>2015-01-12T10:29:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/black-decker-cwv9610-dustbuster-9-6-volt-wet-and-dry-cordless-hand-vac"/>
+    <title>Black &amp; Decker CWV9610 Dustbuster 9.6-Volt Wet and Dry Cordless Hand Vac</title>
+    <s:type>Kitchen supplies</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/black_and_decker_cwv9610_dustbuster_96-volt_wet_and_dry_cordless_hand_vac_1.png?v=1421076595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Kitchen supplies<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Many of our clients were surprised by the incredible assortment of products in our store. You know, we have many devoted customers all over the world, and this fact proves that we sell only quality commodities. Recipe of our success is a fair price and premium quality. Here you can find something more than just home electronics, you can find real comfort and satisfaction here!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236172</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236144</id>
+    <published>2015-01-12T10:29:43-05:00</published>
+    <updated>2015-01-12T10:29:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/bissell-zing-bagless-canister-vacuum"/>
+    <title>BISSELL Zing Bagless Canister Vacuum</title>
+    <s:type>Kitchen supplies</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/bissell_zing_bagless_canister_vacuum_1.png?v=1421076589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Kitchen supplies<br>
+        <strong>Price: </strong>
+            410.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We must admit that our way of life depends on quality of different goods of popular brands. Many of our clients were surprised by the incredible assortment of products in our store. You know, we have many devoted customers all over the world, and this fact proves that we sell only quality commodities. Recipe of our success is a fair price and premium quality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236116</id>
+    <published>2015-01-12T10:29:36-05:00</published>
+    <updated>2015-01-12T10:29:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/bissell-hard-floor-expert-bagless-canister-vacuum-1154"/>
+    <title>BISSELL Hard Floor Expert Bagless Canister Vacuum, 1154</title>
+    <s:type>Kitchen supplies</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/bissell_hard_floor_expert_bagless_canister_vacuum_1154_1.png?v=1421076582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Kitchen supplies<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Home electronics satisfy our wishes and make our life more pleasant. We must admit that our way of life depends on quality of different goods of popular brands. Many of our clients were surprised by the incredible assortment of products in our store. You know, we have many devoted customers all over the world, and this fact proves that we sell only quality commodities.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236116</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236072</id>
+    <published>2015-01-12T10:29:30-05:00</published>
+    <updated>2015-01-12T10:29:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/aroma-awk-290bd-6-cup-digital-electric-water-kettle"/>
+    <title>Aroma AWK-290BD 6-Cup Digital Electric Water Kettle</title>
+    <s:type>Kitchen supplies</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/aroma_awk-290bd_6-cup_digital_electric_water_kettle_1.png?v=1421076575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Kitchen supplies<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is clear that our way of life must be as comfortable as possible. Home electronics satisfy our wishes and make our life more pleasant. We must admit that our way of life depends on quality of different goods of popular brands. Many of our clients were surprised by the incredible assortment of products in our store. We have a tremendous variety of different models.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236072</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme129-electronics.myshopify.com/products/404236044</id>
+    <published>2015-01-12T10:29:22-05:00</published>
+    <updated>2015-01-12T10:29:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme129-electronics.myshopify.com/products/220-240-volt-50-60-hz-delonghi-kbo2001-1-7-liter-cordless-jug-kettle-overseas-use-only-will-not-work-in-the-us"/>
+    <title>220-240 Volt 50-60 Hz Delonghi KBO2001 1.7 Liter Cordless Jug Kettle, OVERSEAS USE ONLY, WILL NOT WORK IN THE US</title>
+    <s:type>Kitchen supplies</s:type>
+    <s:vendor>SMART STORE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0744/1327/products/220-240_volt_50-60_hz_delonghi_kbo2001_17_liter_cordless_jug_kettle_overseas_use_only_will_not_work_in_the_us_1.png?v=1421076569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMART STORE<br>
+        <strong>Type: </strong>Kitchen supplies<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comfort is a very important thing nowadays because it is a condition of satisfaction and calmness. It is clear that our way of life must be as comfortable as possible. Home electronics satisfy our wishes and make our life more pleasant. We must admit that our way of life depends on quality of different goods of popular brands. Recipe of our success is a fair price and premium quality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://theme129-electronics.myshopify.com/products/404236044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
